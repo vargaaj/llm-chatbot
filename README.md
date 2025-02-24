@@ -1,6 +1,6 @@
-# LLM-Chatbot
+# LLM Chatbot
 
-A very basic LLM-Chatbot that makes use of `qwen2.5-coder:3b`.
+A very basic LLM Chatbot that makes use of `qwen2.5-coder:3b`.
 
 ## Demo
 
